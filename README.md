@@ -1,2 +1,9 @@
 # paperpipe
-A toolkit for processing journal papers. The initial functions are parsing and classifying papers. The original classification model is trained to filter literature related to PV degradation, but can be extended to other types. More functions will be added in the future.
+Toolkit for processing academic papers through customizable pipelines. Features include:
+- PDF/HTML parsing with section extraction
+- LLM-based paper classification
+- Initially focused on PV degradation literature
+- Extensible design for other research domains
+- More features planned
+
+Originally developed for solar cell degradation research, but designed as a general-purpose academic paper processing framework.
