@@ -1,4 +1,4 @@
-# paperpipe
+# <img alt="PaperPipe" src="assets/logo.jpg" width="200">
 Toolkit for processing academic papers through customizable pipelines. Features include:
 - PDF/HTML parsing with section extraction
 - LLM-based paper classification
